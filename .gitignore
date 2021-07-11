@@ -1,1 +1,3 @@
 .xbin
+.vscode
+*.code-workspace
